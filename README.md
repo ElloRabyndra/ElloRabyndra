@@ -22,8 +22,8 @@ Hi!, I'm an Informatics Engineering student with a strong passion for programmin
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false" alt="GitHub Streak" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElloRabyndra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150">
-</p>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" style="margin-right: 2%;" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElloRabyndra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" align="right">
+
 
