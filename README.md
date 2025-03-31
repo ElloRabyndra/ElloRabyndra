@@ -29,6 +29,8 @@ Hi!, I'm an Informatics Engineering student with a strong passion for programmin
 <br><br>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ElloRabyndra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
