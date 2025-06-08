@@ -13,7 +13,6 @@ An Informatics Engineering student with a strong passion for programming and gra
 
 ## Tech Stack:
 
-<div style="margin-bottom: 8px;>
 <img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; margin: 5px auto;" /> 
 
 <img align="left" alt="CSS3" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; margin: 5px auto;" />
@@ -43,7 +42,6 @@ An Informatics Engineering student with a strong passion for programming and gra
 <img align="left" alt="NPM" title="npm" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" style="padding-right:10px; margin: 5px auto;" />
 
 <img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px; margin: 5px auto;" />
-</div>
 
 <br>
 
