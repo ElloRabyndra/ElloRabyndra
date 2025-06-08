@@ -1,14 +1,18 @@
-# M. Rabyndra Janitra Binello
+## Hi! 👋 I'm Ello Rabyndra.
 
-##  About Me:
-Hi!, I'm an Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ello-rabyndra/)](https://linkedin.com/in/ello-rabyndra/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ellorabyndra123@gmail.com)](mailto:ellorabyndra123@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ellorabyndra/)](https://www.instagram.com/ellorabyndra/)
+[![Youtube](https://img.shields.io/badge/-Youtube-ed3d26?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@ElloRabyndra)](https://www.youtube.com/@ElloRabyndra)
 
- **My Portofolio Website** : https://ellorabyndra.github.io/portofolioV2/
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ellorabyndra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ello-rabyndra/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ElloRabyndra) 
+An Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities
 
-## 💻 Tech Stack :
+
+ **My Portofolio Website** : [**ellorabyndra.github.io/portofolio**](https://ellorabyndra.github.io/portofolioV2/)
+
+## Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -22,16 +26,9 @@ Hi!, I'm an Informatics Engineering student with a strong passion for programmin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElloRabyndra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br><br>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ElloRabyndra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
