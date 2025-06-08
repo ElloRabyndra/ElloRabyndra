@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Ello Rabyndra.
+## Hi! 👋 I'm Ello Rabyndra.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ello-rabyndra/)](https://linkedin.com/in/ello-rabyndra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ellorabyndra123@gmail.com)](mailto:ellorabyndra123@gmail.com)
@@ -11,7 +11,7 @@ I'm an Informatics Engineering student with a strong passion for programming and
 
  **My Portofolio Website** : [**ellorabyndra.github.io/portofolio**](https://ellorabyndra.github.io/portofolioV2/)
 
-### Tech Stack:
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -26,7 +26,7 @@ I'm an Informatics Engineering student with a strong passion for programming and
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### GitHub Stats:
+## GitHub Stats:
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false)
 
