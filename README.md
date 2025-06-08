@@ -31,7 +31,7 @@ An Informatics Engineering student with a strong passion for programming and gra
 
 <img align="left" alt="React" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" />
 
-<img align="left" alt="Tailwind" title="Tailwind" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" style="padding-top: 5px; padding-right: 10px; padding-bottom: 5px; display: block;"  />
+<img align="left" alt="Tailwind" title="Tailwind" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" style="display: block; padding-top: 5px; padding-right: 10px; padding-bottom: 5px;"  />
 
 <img align="left" alt="Nodejs" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" />
 
