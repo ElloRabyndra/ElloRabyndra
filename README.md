@@ -6,7 +6,7 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-ed3d26?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@ElloRabyndra)](https://www.youtube.com/@ElloRabyndra)
 
 
-I'm an Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities
+An Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities
 
 
  **My Portofolio Website** : [**ellorabyndra.github.io/portofolio**](https://ellorabyndra.github.io/portofolioV2/)
