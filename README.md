@@ -6,30 +6,49 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-ed3d26?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@ElloRabyndra)](https://www.youtube.com/@ElloRabyndra)
 
 
-An Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities
+An Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities.
 
 
  **My Portofolio Website** : [**ellorabyndra.github.io/portofolio**](https://ellorabyndra.github.io/portofolioV2/)
 
 ## Tech Stack:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> 
+
+<img align="left" alt="CSS3" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="JavaScript" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="PHP" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="ES6" title="EcmaScrpt 6" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" style="padding-right:10px;" /></a>
+
+<!-- <img align="left" alt="JQuery" title="JQuery" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" style="padding-right:10px;" /> -->
+
+<img align="left" alt="React" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Tailwind" title="Tailwind" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" style="padding-top: 5px; padding-right: 10px"  />
+
+<img align="left" alt="Nodejs" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Express" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="GitHub" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+
+<!-- <img align="left" alt="NPM" title="npm" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px;" />
+
+<img align="left" alt="vercel" title="vercel" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vercel.svg" style="padding-right:10px;" /> -->
+
+<br>
 
 ## GitHub Stats:
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false)
-
-
-
-
