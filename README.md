@@ -35,7 +35,7 @@ An Informatics Engineering student with a strong passion for programming and gra
 
 <img align="left" alt="Nodejs" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Express" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="30px" src="https://img.shields.io/badge/-%23404d59.svg?style=for-the-badge&logo=express" style="padding-top: 2px; padding-right: 10px" />
 
 <img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
