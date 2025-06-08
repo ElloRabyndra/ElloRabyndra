@@ -39,6 +39,10 @@ An Informatics Engineering student with a strong passion for programming and gra
 <img align="left" alt="Express" width="30px" src="https://img.shields.io/badge/-%23404d59.svg?style=for-the-badge&logo=express" style="padding-top: 2px; padding-right: 10px" />
 
 <img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="NPM" title="npm" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" style="padding-right:10px;" />Add commentMore actions
+
+<img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px;" />
 </div>
 
 <br>
