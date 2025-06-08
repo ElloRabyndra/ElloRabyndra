@@ -45,6 +45,7 @@ An Informatics Engineering student with a strong passion for programming and gra
 <img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px;" /> -->
 </div>
 
+---
 
 <br>
 
