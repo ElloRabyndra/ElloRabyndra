@@ -39,13 +39,10 @@ An Informatics Engineering student with a strong passion for programming and gra
 
 <img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-
 <!-- <img align="left" alt="NPM" title="npm" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px;" />
+<img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px;" /> -->
 
-<img align="left" alt="vercel" title="vercel" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vercel.svg" style="padding-right:10px;" /> -->
 
 <br>
 
