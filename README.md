@@ -11,6 +11,8 @@ An Informatics Engineering student with a strong passion for programming and gra
 
  **My Portofolio Website** : [**ellorabyndra.github.io/portofolio**](https://ellorabyndra.github.io/portofolioV2/)
 
+<br>
+
 ## Tech Stack:
 
 <img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" /> 
