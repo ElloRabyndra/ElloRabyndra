@@ -13,37 +13,37 @@ An Informatics Engineering student with a strong passion for programming and gra
 
 ## Tech Stack:
 
-<img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; margin: 5px auto;" /> 
+<img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-bottom: 5px;" /> 
 
-<img align="left" alt="CSS3" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="CSS3" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="JavaScript" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="JavaScript" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="Java" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="Java" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="PHP" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="PHP" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="MySQL" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="MySQL" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="ES6" title="EcmaScrpt 6" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" style="padding-right:10px; margin: 5px auto;" /></a>
+<img align="left" alt="ES6" title="EcmaScrpt 6" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" style="padding-right:10px; padding-bottom: 5px;" /></a>
 
-<!-- <img align="left" alt="JQuery" title="JQuery" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" style="padding-right:10px; margin: 5px auto;" /> -->
+<!-- <img align="left" alt="JQuery" title="JQuery" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" style="padding-right:10px; padding-bottom: 5px;" /> -->
 
-<img align="left" alt="React" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="React" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="Tailwind" title="Tailwind" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" style="padding-top: 5px; padding-right: 10px; margin: 5px auto;"  />
+<img align="left" alt="Tailwind" title="Tailwind" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" style="padding-top: 5px; padding-right: 10px; padding-bottom: 5px;"  />
 
-<img align="left" alt="Nodejs" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="Nodejs" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="Express" width="30px" src="https://img.shields.io/badge/-%23404d59.svg?style=for-the-badge&logo=express" style="padding-top: 2px; padding-right: 10px; margin: 5px auto;" />
+<img align="left" alt="Express" width="30px" src="https://img.shields.io/badge/-%23404d59.svg?style=for-the-badge&logo=express" style="padding-top: 2px; padding-right: 10px; padding-bottom: 5px;" />
 
-<img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="NPM" title="npm" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="NPM" title="npm" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px; margin: 5px auto;" />
+<img align="left" alt="Vite" title="Vite" width="29px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" style="padding-right:10px; padding-bottom: 5px;" />
 
-<br><br>
+<br>
 
 ## GitHub Stats:
 
