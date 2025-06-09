@@ -35,8 +35,6 @@ An Informatics Engineering student with a strong passion for programming and gra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
 </p>
 
-<br><br>
-
 ## GitHub Stats:
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false)
