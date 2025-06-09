@@ -13,6 +13,7 @@ An Informatics Engineering student with a strong passion for programming and gra
 
 ## Tech Stack:
 
+<div style="display: flex; justify-content: center;"
 <img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" /> 
 
 <img align="left" alt="CSS3" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" />
@@ -38,6 +39,7 @@ An Informatics Engineering student with a strong passion for programming and gra
 <img align="left" alt="Express" width="30px" src="https://img.shields.io/badge/-%23404d59.svg?style=for-the-badge&logo=express" style="padding-top: 2px; padding-right: 10px; padding-bottom: 5px; display: block;" />
 
 <img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" />
+</div>
 
 <br><br>
 
