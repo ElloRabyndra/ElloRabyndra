@@ -24,6 +24,9 @@ An Informatics Engineering student with a strong passion for programming and gra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="margin-right: 10px"/>
   <img src="https://img.shields.io/badge/-404D59?style=flat&logo=express&logoColor=white" height="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="margin-right: 10px"/>
+  <img src="https://img.shields.io/badge/-404D59?style=flat&logo=express&logoColor=white" height="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right: 10px"/>
 </p>
 
 ## GitHub Stats:
