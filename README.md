@@ -13,7 +13,7 @@ An Informatics Engineering student with a strong passion for programming and gra
 
 ## Tech Stack:
 
-<div style="display: flex; justify-content: center;"
+<div style="display: flex; justify-content: center;">
 <img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" /> 
 
 <img align="left" alt="CSS3" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-bottom: 5px; display: block;" />
