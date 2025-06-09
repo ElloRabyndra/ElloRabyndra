@@ -30,7 +30,7 @@ An Informatics Engineering student with a strong passion for programming and gra
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/-404D59?style=flat&logo=express&logoColor=white" height="30px"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
 </p>
