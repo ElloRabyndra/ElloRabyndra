@@ -32,7 +32,7 @@ An Informatics Engineering student with a strong passion for programming and gra
   &nbsp;&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="margin-right: 9px;"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" width="30px" style="margin-right: 9px; padding-top: -1px"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" width="30px" style="margin-right: 9px; padding-top: -3px"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="margin-right: 9px;"/>
   &nbsp;&nbsp;
