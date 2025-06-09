@@ -40,7 +40,7 @@ An Informatics Engineering student with a strong passion for programming and gra
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right: 9px;"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" width="30px" style="margin-right: 9px;"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="30px" style="margin-right: 9px;"/>
 </p>
 
 ## GitHub Stats:
