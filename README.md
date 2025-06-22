@@ -41,8 +41,8 @@ An Informatics Engineering student with a strong passion for programming and gra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right: 7px;"/>
   &nbsp;&nbsp;
   <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="30px" style="margin-right: 7px;"/>
-  <!-- &nbsp;&nbsp;
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" style="margin-right: 7px;"/> -->
+  &nbsp;&nbsp;
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" style="margin-right: 7px;"/>
 </p>
 
 ## GitHub Stats:
