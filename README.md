@@ -28,8 +28,6 @@ An Informatics Engineering student with a strong passion for programming and gra
   &nbsp;&nbsp;
   <img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" width="30px" style="margin-right: 7px;"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" width="30px" style="margin-right: 7px;"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="margin-right: 7px;"/>
   &nbsp;&nbsp;
   <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" width="30px" style="margin-right: 7px; padding-top: -2px"/>
