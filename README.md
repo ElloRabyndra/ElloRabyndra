@@ -24,6 +24,8 @@ An Informatics Engineering student with a strong passion for programming and gra
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" style="margin-right: 7px;"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" style="margin-right: 7px;"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" style="margin-right: 7px;"/>
   &nbsp;&nbsp;
   <img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" width="30px" style="margin-right: 7px;"/>
@@ -37,8 +39,6 @@ An Informatics Engineering student with a strong passion for programming and gra
   <img src="https://img.shields.io/badge/-404D59?style=flat&logo=express&logoColor=white" height="30px"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right: 7px;"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="30px" style="margin-right: 7px;"/>
   &nbsp;&nbsp;
   <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" style="margin-right: 7px;"/>
 </p>
