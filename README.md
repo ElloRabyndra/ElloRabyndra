@@ -5,9 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ellorabyndra/)](https://www.instagram.com/ellorabyndra/)
 [![Youtube](https://img.shields.io/badge/-Youtube-ed3d26?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@ElloRabyndra)](https://www.youtube.com/@ElloRabyndra)
 
-
 An Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities.
-
 
  **My Portofolio Website** : [**ellorabyndra.github.io/portofolio**](https://ellorabyndra.github.io/portofolioV2/)
 
@@ -54,16 +52,15 @@ An Informatics Engineering student with a strong passion for programming and gra
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
-  </a>
-  <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="NPM" width="40" height="40"/>
   </a>
   <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+  <a style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
 </p>
-
 
 ## GitHub Stats:
 
