@@ -7,7 +7,7 @@
 
 An Informatics Engineering student with a strong passion for programming and graphic design. I have experience in Java and JavaScript programming languages and am currently focusing on web development. I possess excellent teamwork and communication skills, adaptability, problem-solving abilities, and leadership qualities.
 
- **My Portofolio Website** : [**ellorabyndra.github.io/portofolio**](https://ellorabyndra.github.io/portofolioV2/)
+ **My Portofolio Website** : [**ello-rabyndra.vercel.app**](https://ello-rabyndra.vercel.app/)
 
 ## Tech Stack:
 
