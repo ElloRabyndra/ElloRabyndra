@@ -34,11 +34,11 @@ An Informatics Engineering student with a strong passion for programming and gra
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  </a>
-  <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <!-- <a style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  </a> -->
   <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -47,6 +47,9 @@ An Informatics Engineering student with a strong passion for programming and gra
   </a>
   <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://img.shields.io/badge/-404D59?style=flat&logo=express&logoColor=white" alt="express" width="40" height="40"/>
+  </a>
+  <a style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
   </a>
   <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
