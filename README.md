@@ -36,9 +36,6 @@ An Informatics Engineering student with a strong passion for programming and gra
   <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <!-- <a style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  </a> -->
   <a style="text-decoration: none; border: none; outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
