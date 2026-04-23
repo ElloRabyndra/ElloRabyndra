@@ -70,7 +70,3 @@ An Informatics Engineering student with a strong passion for programming and gra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
   </a>
 </p>
-
-## GitHub Stats:
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ElloRabyndra&theme=dark&hide_border=false)
